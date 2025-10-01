@@ -81,10 +81,15 @@ Tout le travail s'est fait essentiellement sur PowerBi avec des options comme cr
 
 
 29,3%  des dossiers sont des victimes de 26 à 35 ans.
+
 27,95% des dossiers sont des victimes de 36 à 45.
+
 17,6%  des dossiers sont des victimes de de 46 à 55 ans.
+
 15,94%  des dossiers sont des victimes de 50 à 90 ans
+
 8,28%  des dossiers sont des victimes de 18 à 25 ans
+
 0,93%  des dossiers sont des victimes de moins de 18 ans
 
 
@@ -99,12 +104,17 @@ Tout le travail s'est fait essentiellement sur PowerBi avec des options comme cr
 <img width="891" height="480" alt="prjdcconsr" src="https://github.com/user-attachments/assets/457ec083-df9c-40f1-b0a9-ae049b675462" />
 
 
-57% du montant total des préjudices tentés ont des victimes de 50 à 90 ans
-19% du montant total des préjudices tentés ont des victimes de 36 à 45 ans
-13% du montant total des préjudices tentés ont des victimes de 26 à 35 ans
-9% du montant total des préjudices tentés ont des victimes de 46 à 55 ans
-2% du montant total des préjudices tentés ont des victimes de 18 à 25 ans
-0,07% du montant total des préjudices tentés ont des victimes de moins de 18 ans 
+57% du montant total des préjudices consommés ont des victimes de 50 à 90 ans
+
+19% du montant total des préjudices consommés ont des victimes de 36 à 45 ans
+
+13% du montant total des préjudices consommés ont des victimes de 26 à 35 ans
+
+9% du montant total des préjudices consommés ont des victimes de 46 à 55 ans
+
+2% du montant total des préjudices consommés ont des victimes de 18 à 25 ans
+
+0,07% du montant total des préjudices consommés ont des victimes de moins de 18 ans 
 
 
 
@@ -117,9 +127,13 @@ Tout le travail s'est fait essentiellement sur PowerBi avec des options comme cr
 
 
 32% des mis en cause interpellés ont l'âge qui varie entre 23 et 27 ans
+
 31% des mis en cause interpellés ont l'âge qui varie entre 18 et 22 ans
+
 21% des mis en cause interpellés ont l'âge qui varie entre 28 et 33 ans
+
 11% des mis en cause interpellés ont l'âge qui varie entre 33ans et plus
+
 5% des mis en cause interpellés ont l'âge qui varie entre 0 et 18 ans
 
 
@@ -132,9 +146,13 @@ Tout le travail s'est fait essentiellement sur PowerBi avec des options comme cr
 
 
 33% des mis en cause déférés ont l'âge qui varie entre 18 et 22 ans
+
 32% des mis en cause déférés ont l'âge qui varie entre  23 et 27 ans
+
 20% des mis en cause déférés ont l'âge qui varie entre 28 et 33 ans
+
 12% des mis en cause déférés ont l'âge qui varie entre 33ans et plus
+
 5% des mis en cause déférés ont l'âge qui varie entre 0 et 18 ans
 
 
