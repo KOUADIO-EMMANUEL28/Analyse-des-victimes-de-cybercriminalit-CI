@@ -223,7 +223,7 @@ Sanctions adaptées et accompagnement : combiner répression et réinsertion pou
 
 #### Bon à savoir
 
- Une grande partie des observation(près de 50%) était dans la tranche d'âge "non défini" , Nous n'avons donc pas pris en compte cette catégorie dans notre travail.
+ Une grande partie des observations (près de 50%) était dans la tranche d'âge "non défini" , Nous n'avons donc pas pris en compte cette catégorie dans notre travail.
 Raison pour laquelle nous avons préféré travailler avec les fréquences , histoire d'avoir une vue en terme de proportion.
 
 
