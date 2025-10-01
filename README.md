@@ -25,7 +25,7 @@
 
 ## Description
 
-Ce projet traite des victimes de cybercriminalités en Côte d'Ivoire(2015). En l'analyse de ces données a pour but de mettre en évidence le lien entre les victimes ,les préjudices, les mis en cause et les différentes catégorie d'âge.
+Ce projet traite des victimes de cybercriminalités en Côte d'Ivoire(2015). En effet l'analyse de ces données a pour but de mettre en évidence le lien entre les victimes ,les préjudices, les mis en cause et les différentes catégorie d'âge.
 
 
 
